@@ -1,17 +1,18 @@
 [
    {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+     "name": "Lazy Hazy Beef Chili",
+     "author": "John Mitzewich",
+     "description": "Easy and flavorful chili, for a busy or lazy fall day!",
+     "website": "https://www.allrecipes.com/lazy-hazy-beef-chili-recipe-7562950",
+     "recipeImage": "https://www.allrecipes.com/thmb/5qZsc31L1pHxtUGgWHmYbcPoDy8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7562950_Lazy-Hazy-Beef-Chili_Chef-John_4x3-e931f35d91b44e9d93f99ec5c8bd7e2a.jpg",
+     "authorImage": "https://www.allrecipes.com/thmb/rI3ImaTYU8HVtagwqw5HL2v1Tcs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chef-john-c50f1c2cb23f4e7786d66c30bddf8bcb.jpg",
      "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
-       "heavy cream",
-       "milk"
+      "2 pounds ground beef",
+      "2 tablespoons chili powder", 
+      "12 ounces hazy IPA beer", 
+      "1 (14.5 ounce) can diced fire-roasted tomatoes with green chilies", 
+      "2 (16 ounce jars) extra chunky salsa", 
+      "2 (15 ounce) cans pinto beans, drained"
      ]
    }
  ]
